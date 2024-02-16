@@ -20,6 +20,12 @@ Enjoy the enhanced functionality and productivity provided by the Esrafil Extens
 
 If you encounter any issues or have suggestions for improvement, please feel free to open an issue in the [GitHub repository](https://github.com/EsrafilElahi/my-extension-pack). Contributions are also welcome!
 
+## publish extension
+npm i -g yo generator-code
+npm i -g vsce
+vsce package
+go to marketplace profile and upload the .visx file
+
 ## License
 
 This extension pack is licensed under the [MIT License](LICENSE).
