@@ -10,7 +10,7 @@ Esrafil Extension Pack is a collection of useful Visual Studio Code (VSCode) ext
 
 1. Open Visual Studio Code.
 2. Go to the Extensions view by clicking on the square icon on the left sidebar or by pressing `Ctrl+Shift+X`.
-3. Search for "Esrafil Extension Pack" in the extensions marketplace.
+3. Search for "Esrafil Extensions Pack" in the extensions marketplace.
 4. Click on the "Install" button next to the extension pack.
 5. Once installed, the included extensions will be automatically installed and enabled in your VSCode.
 
