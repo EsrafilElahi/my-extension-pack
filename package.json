@@ -1,0 +1,40 @@
+{
+  "name": "esrafil-extension-pack",
+  "displayName": "esrafil-extension-pack",
+  "description": "this is useful extensions for frontend devs",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "aaron-bond.better-comments", 
+    "ahmadawais.shades-of-purple", 
+    "ambar.bundle-size", 
+    "bito.bito", 
+    "bradlc.vscode-tailwindcss", 
+    "dbaeumer.vscode-eslint", 
+    "donjayamanne.githistory", 
+    "dsznajder.es7-react-js-snippets", 
+    "ecmel.vscode-html-css", 
+    "esbenp.prettier-vscode", 
+    "genieai.chatgpt-vscode", 
+    "glenn2223.live-sass", 
+    "guodongsun.vscode-git-cruise", 
+    "kvcvc.sequelize-snippets", 
+    "mattpocock.ts-error-translator", 
+    "ms-vscode.vscode-typescript-next", 
+    "pkief.material-icon-theme", 
+    "prisma.prisma", 
+    "rangav.vscode-thunder-client", 
+    "ritwickdey.liveserver", 
+    "s-nlf-fh.glassit", 
+    "shd101wyy.markdown-preview-enhanced", 
+    "syler.sass-indented", 
+    "tabnine.tabnine-vscode", 
+    "yoavbls.pretty-ts-errors", 
+    "zhang-renyang.chat-gpt"
+  ]
+}
