@@ -26,6 +26,8 @@ npm i -g vsce
 vsce package
 go to marketplace profile and upload the .visx file
 
+marketplace profile : https://marketplace.visualstudio.com/manage/publishers/esrafilextensionpack
+
 ## License
 
 This extension pack is licensed under the [MIT License](LICENSE).
