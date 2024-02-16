@@ -1,16 +1,25 @@
-# esrafil-extension-pack README
+# Esrafil Extension Pack
 
-## Working with Markdown
+![Extension Pack Logo](extension-pack-logo.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Description
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Esrafil Extension Pack is a collection of useful Visual Studio Code (VSCode) extensions that enhance your coding experience. This pack includes a curated selection of extensions that provide additional features and tools to boost productivity and improve your workflow.
 
-## For more information
+## Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open Visual Studio Code.
+2. Go to the Extensions view by clicking on the square icon on the left sidebar or by pressing `Ctrl+Shift+X`.
+3. Search for "Esrafil Extension Pack" in the extensions marketplace.
+4. Click on the "Install" button next to the extension pack.
+5. Once installed, the included extensions will be automatically installed and enabled in your VSCode.
 
-**Enjoy!**
+Enjoy the enhanced functionality and productivity provided by the Esrafil Extension Pack!
+
+## Issues and Contributions
+
+If you encounter any issues or have suggestions for improvement, please feel free to open an issue in the [GitHub repository](https://github.com/EsrafilElahi/my-extension-pack). Contributions are also welcome!
+
+## License
+
+This extension pack is licensed under the [MIT License](LICENSE).
