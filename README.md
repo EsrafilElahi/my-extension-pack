@@ -15,7 +15,7 @@ Esrafil Extension Pack is a collection of useful Visual Studio Code (VSCode) ext
 5. Once installed, the included extensions will be automatically installed and enabled in your VSCode.
 
 Enjoy the enhanced functionality and productivity provided by the Esrafil Extension Pack!
-
+ 
 ## Issues and Contributions
 
 If you encounter any issues or have suggestions for improvement, please feel free to open an issue in the [GitHub repository](https://github.com/EsrafilElahi/my-extension-pack). Contributions are also welcome!
